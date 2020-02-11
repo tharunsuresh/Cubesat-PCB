@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Prometheus.SchDoc
+Record=SheetSymbol|SourceDocument=Prometheus.SchDoc|Designator=Current Sensors|SchDesignator=Current Sensors|FileName=INA226-Current-Sensors.SchDoc|SymbolType=Normal|RawFileName=INA226-Current-Sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Prometheus.SchDoc|Designator=Headers|SchDesignator=Headers|FileName=Headers.SchDoc|SymbolType=Normal|RawFileName=Headers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Prometheus.SchDoc|Designator=Temperature Sensor|SchDesignator=Temperature Sensor|FileName=MAX6698-Temperature-Sensor.SchDoc|SymbolType=Normal|RawFileName=MAX6698-Temperature-Sensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
